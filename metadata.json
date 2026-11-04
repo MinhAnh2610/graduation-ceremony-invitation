@@ -1,0 +1,8 @@
+{
+  "name": "Graduation Ceremony Invitation · Minh Anh 2026",
+  "description": "An interactive graduation ceremony invitation website featuring a central graduate portrait, glowing EDM visualizer ring, and the celebratory anthem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
