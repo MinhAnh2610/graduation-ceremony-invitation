@@ -205,21 +205,6 @@ export const CeremonyDetails: React.FC<CeremonyDetailsProps> = ({ details }) => 
                   {details.parentSeats}
                 </span>
               </div>
-
-              {/* VIP Guest Dedication */}
-              <div className="p-3.5 bg-gradient-to-r from-orange-950/50 via-slate-950 to-pink-950/40 rounded-2xl border border-orange-500/40 flex items-center gap-3 shadow-md">
-                <div className="w-8 h-8 rounded-xl bg-orange-500/20 border border-orange-400/30 flex items-center justify-center shrink-0 text-base">
-                  💌
-                </div>
-                <div>
-                  <span className="text-[10px] text-orange-400/90 uppercase tracking-wider block font-semibold">
-                    Khách Mời Đặc Biệt
-                  </span>
-                  <span className="text-xs sm:text-sm font-bold text-white">
-                    Kính mời bợn Bẻo Chu iu zấu
-                  </span>
-                </div>
-              </div>
             </div>
           </div>
 
