@@ -147,6 +147,15 @@ export default function App() {
             <span className="text-cyan-400 font-mono">SE183496</span>
           </div>
 
+          {/* Personalized VIP Invitation Tag */}
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-orange-500/20 via-pink-500/20 to-amber-500/20 border border-orange-400/40 shadow-lg shadow-orange-500/10 mb-3 animate-pulse">
+            <span className="text-base">😊</span>
+            <span className="text-xs sm:text-sm font-bold text-orange-200">
+              Kính mời chị Chu
+            </span>
+            <span className="text-base">✨</span>
+          </div>
+
           {/* Invitation Headline */}
           <h1 className="text-3xl sm:text-5xl md:text-6xl font-black text-white tracking-tight leading-tight max-w-3xl mb-3 font-display">
             Thư Mời Lễ Tốt Nghiệp
